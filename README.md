@@ -1,7 +1,7 @@
 # GDSC-Flutter
 # Syllabus Flutter Bootcamp 2024
 
-Objectifs:
+Objectifs :
 
 - Maîtriser les concepts fondamentaux du framework Flutter
 - Développer des applications mobiles natives pour iOS et Android
