@@ -8,7 +8,8 @@ Objectifs:
 - Acquérir des compétences en gestion d'état, d'API et de Firebase
 
 Programme
-- Préambule
+- Préambule : (Une semaine)
+  Donnez le temps aux 
   - Installation et configuration
   - Cours de Dart
   - Ressources :
@@ -44,23 +45,25 @@ Programme
   - [Navigation avec Navigator](https://youtu.be/Ctu1Tef9jIg)
   - [Navigation avec GoRouter](https://youtu.be/QwlrHjBYQ2M)
 - Début des animations
-  - Animations implicites
-  - Animated Container
-  - Animations explicites
-  - Exemples d'animations
+  - [Animations implicites](https://youtu.be/IVTjpW3W33s)
+  - [Animated Container](https://youtu.be/fw6enVVhHL8)
+  - [Animations explicites](https://youtu.be/CunyH6unILQ?list=PLjxrf2q8roU2v6UqYlt_KPaXlnjbYySua)
+  - [Exemples d'animations](https://youtu.be/XYiP09ihsKA)
 - Semaine d'exercices et de révision
 - Gestion d'état
-  - Comprendre la gestion d'état avec Bloc (Bloc & Cubit) et Provider
-  - Flutter Bloc
+  - [Comprendre la gestion d'état avec Bloc (Bloc & Cubit) et Provider](https://youtu.be/tt8iTShk_e0)
+  - [Flutter Bloc](https://youtu.be/hTExlt1nJZI)
 - APIs
-  - Qu'est-ce qu'une API ?
-  - Utilisation des APIs
+  - [Qu'est-ce qu'une API ?](https://youtu.be/Jc_Riqr58tA)
+  - [Utilisation des APIs](https://youtu.be/hTExlt1nJZI)
+  - [Utilisation de http packages](https://youtu.be/MAvxIeRZ1q8)
 - Semaine d'exercices
 - Premiers pas dans Firebase
-  - Configuration de Flutter Firebase
-  - CRUD Flutterfire
-  - Stockage dans Firebase
-  - Authentification
+  - [Configuration de Flutter Firebase](https://youtu.be/FkFvQ0SaT1I)
+  - [CRUD Flutterfire](https://youtu.be/iQOvD0y-xnw)
+  - [Stockage dans Firebase](https://youtu.be/WDqi-ZUXHEo)
+  - [Authentification](https://youtu.be/k7TVYn5jwQk?si=Cm-IlX6AXwIxl2ke)
+  - [Documentation officielle](https://firebase.flutter.dev/docs/overview/)
 - Conception d'un projet individuel
 - Divers
   - Réception des questions des apprenants
