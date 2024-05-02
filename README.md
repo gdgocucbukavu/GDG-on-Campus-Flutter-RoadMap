@@ -32,18 +32,17 @@ Programme
       - [Widget de base part 1](https://www.youtube.com/watch?v=-NFKLRXLm2o&list=PLlYd6e7tOfNhB0dHpdb4kI-zC8EjVH3cw&index=3&pp=iAQB)
       - [Les états en flutter](https://www.youtube.com/watch?v=L34oHhDCeso&list=PLlYd6e7tOfNhB0dHpdb4kI-zC8EjVH3cw&index=6&pp=iAQB)
       - [Autres](https://www.youtube.com/watch?v=jG5NTcSX7ps&t=229s)
-      - [Exercice 1](https://www.youtube.com/watch?v=HFgB0K2yzbs&list=PLlYd6e7tOfNhB0dHpdb4kI-zC8EjVH3cw&index=12&pp=iAQB), [Exercice 2](https://www.youtube.com/watch?v=hYb-Ei2F8qo&list=PLlYd6e7tOfNhB0dHpdb4kI-zC8EjVH3cw&index=13&pp=iAQB)
-
+      
 - Structure des applications
-  - Column & Row
-  - Button
-  - Image
-  - ListView & autres widgets
+  - [Column & Row](https://www.youtube.com/watch?v=L34oHhDCeso&list=PLlYd6e7tOfNhB0dHpdb4kI-zC8EjVH3cw&index=6&pp=iAQB)
+  - [Button](https://www.youtube.com/watch?v=nilDPMi2NAw&list=PLlYd6e7tOfNhB0dHpdb4kI-zC8EjVH3cw&index=7&pp=iAQB)
+  - [Image](https://www.youtube.com/watch?v=GULdqybyPSs&list=PLlYd6e7tOfNhB0dHpdb4kI-zC8EjVH3cw&index=8&pp=iAQB)
+  - [ListView & autres widgets](https://www.youtube.com/watch?v=qOodfnZTHT0&list=PLlYd6e7tOfNhB0dHpdb4kI-zC8EjVH3cw&index=11&pp=iAQB)
 - Semaine d'exercices avec challenges
-  - Navigation dans Flutter
-  - Formulaires dans les applications Flutter
-  - Navigation avec Navigator
-  - Navigation avec GoRouter
+  - [Exercice 1](https://www.youtube.com/watch?v=HFgB0K2yzbs&list=PLlYd6e7tOfNhB0dHpdb4kI-zC8EjVH3cw&index=12&pp=iAQB), [Exercice 2](https://www.youtube.com/watch?v=hYb-Ei2F8qo&list=PLlYd6e7tOfNhB0dHpdb4kI-zC8EjVH3cw&index=13&pp=iAQB)
+  - [Formulaires dans les applications Flutter](https://youtu.be/zFzQPqvlwWw)
+  - [Navigation avec Navigator](https://youtu.be/Ctu1Tef9jIg)
+  - [Navigation avec GoRouter](https://youtu.be/QwlrHjBYQ2M)
 - Début des animations
   - Animations implicites
   - Animated Container
