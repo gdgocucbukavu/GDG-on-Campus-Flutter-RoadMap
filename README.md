@@ -1,4 +1,4 @@
-# GDSC-Flutter
+# GDG on Campus UCB - Flutter Road Map
 # Syllabus Flutter Bootcamp 2024
 
 Objectifs :
